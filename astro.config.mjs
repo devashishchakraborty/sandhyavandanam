@@ -6,18 +6,17 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Sandhyāvandanam',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Sandhyā Library',
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Regions',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Bengal', slug: 'regions/bengal' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Veda',
 					autogenerate: { directory: 'reference' },
 				},
 			],
