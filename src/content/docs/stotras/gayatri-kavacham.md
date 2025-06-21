@@ -1,6 +1,6 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Gāẏatrī Kavacam
+description: Gāẏatrī Kavacam from the Viśvāmitra Saṃhitā is a sacred “armor‑mantra” dedicated to Goddess Gayatri, believed to offer protection and spiritual upliftment to those who recite it.
 ---
 
 Reference pages are ideal for outlining how things work in terse and clear terms.
